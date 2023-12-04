@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  #map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .marker {
+    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fpin_7611552&psig=AOvVaw2T1rip0CB05xlFC3lSQX6-&ust=1701740965484000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDR4Z_V9IIDFQAAAAAdAAAAABAE');
+  }
+
+  .map-overlay {
+    position: absolute;
+    left: 0;
+    padding: 10px;
+    background-color: rgb(235, 98, 221);
+    border-radius: 10px;
+  }
+
+  .isButton {
+    color: palevioletred;
+    background-color: rgb(251, 215, 248);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 10px;
+  }
+  
+ 
